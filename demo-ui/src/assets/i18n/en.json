@@ -1,0 +1,12 @@
+{
+    "emp.firstName" : "First Name:",
+    "emp.lastName" : "Last Name:",
+    "emp.gender" : "Gender:",
+    "emp.dob" : "Date of Birth:",
+    "emp.department" : "Department:",
+    "emp.register" : "Register",
+    "emp.details" : "Employee Details",
+    "emp.female": "Female",
+    "emp.male" : "Male",
+    "emp.others": "Others"
+}
